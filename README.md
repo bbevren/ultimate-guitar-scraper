@@ -4,7 +4,7 @@
 
 ## ⚠️ Scrapper termination
 
-I recently reived an email from _Max Chistyakov_, developer at Ultimate Guitar how ask me to shotdown this project. Since I don't when any trouble I am apllying to his request.
+I recently received an email from _Max Chistyakov_, developer at Ultimate Guitar who asked me to shut down this project. It was a fun project to work on but since I don't when any trouble I am applying to his request.
 
 ```
 From <m.chistyakov@ultimate-guitar.com>
@@ -45,4 +45,4 @@ Max
 
 ## Alternatives
 
-There is alternatives you can find on [GitHub](https://github.com/search?l=JavaScript&q=ultimate+guitar&type=Repositories).
+There are alternatives you can find on [GitHub](https://github.com/search?l=JavaScript&q=ultimate+guitar&type=Repositories).
